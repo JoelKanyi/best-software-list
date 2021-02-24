@@ -295,7 +295,7 @@ I use Android as my primary mobile OS on all my devices.
 * [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
 * [Audible](https://play.google.com/store/apps/details?id=com.audible.application)
 * [BeyondPod](https://play.google.com/store/apps/details?id=mobi.beyondpod)
-* [Google Music](https://play.google.com/store/apps/details?id=com.google.android.music)
+* [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 * [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium)
 * [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music)
